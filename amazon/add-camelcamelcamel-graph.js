@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name           [Amazon] Camel Graph Only
-// @version        2.0
+// @version        2.1
 // @description    Adds a button to load the CamelCamelCamel price graph on Amazon product pages
 // @namespace      https://github.com/6uhrmittag
 // @Author         Original by github.com/n1ckDotEXE/violentmonkey-scripts; modified by 6uhrmittag
 // @homepageURL    https://github.com/6uhrmittag/violentmonkey-scripts
-// @downloadURL    https://github.com/6uhrmittag/Itch-Sort-And-Export/raw/main/add-camelcamelcamel-graph.js
+// @downloadURL    https://github.com/6uhrmittag/violentmonkey-scripts/raw/master/amazon/add-camelcamelcamel-graph.js
 // @include        https://www.amazon.*/*
 // @include        https://smile.amazon.*/*
 // ==/UserScript==
